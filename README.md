@@ -1,9 +1,9 @@
 # Password Generator using HTML, CSS and Javascript
 The application dynamically generates random passwords of a specified length (in this case, 12 characters) <br />
 using a combination of uppercase letters, lowercase letters, numbers, and symbols with HTML, CSS and <br />
-Javascript. This ensures that the generated passwords are secure and difficult to guess. <br />
-The application is designed to be responsive and compatible with different devices and screen sizes. <br /> 
-Overall, the Random Password Generator application offers a convenient and secure solution for generating <br /> 
+Javascript. This ensures that the generated passwords are secure and difficult to guess. The application<br />
+is designed to be responsive and compatible with different devices and screen sizes. Overall, the <br /> 
+Random Password Generator application offers a convenient and secure solution for generating <br /> 
 strong passwords, enhancing user security and privacy in online activities. The application utilizes the  <br /> 
 document.execCommand("copy") method to copy the generated password to the user's clipboard. This feature  <br /> 
 allows users to quickly and conveniently paste the password into password fields or other applications  <br /> 

@@ -75,5 +75,5 @@ security and privacy in online activities.
  
 -.container button: Styling for the buttons, including background color, text color, font size, padding, and cursor style. <br />
  
--#copyMessage: Styling for the copy message display area, setting its initial display to none, position, background color,  <br />
+-#copyMessage: Styling for the copy message display area, setting its initial display to none, position, background color, 
 text color, border radius, and positioning in the center of the screen.

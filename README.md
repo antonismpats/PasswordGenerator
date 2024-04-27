@@ -1,4 +1,8 @@
 # Password Generator using HTML, CSS and Javascript
+
+![output](https://github.com/antonismpats/PasswordGenerator/assets/161160300/7cd757c6-2d33-43dd-b248-f304a44daee6)
+
+
 The application dynamically generates random passwords of a specified length (in this case, 12 characters) <br />
 using a combination of uppercase letters, lowercase letters, numbers, and symbols with HTML, CSS and <br />
 Javascript. This ensures that the generated passwords are secure and difficult to guess. The application<br />
